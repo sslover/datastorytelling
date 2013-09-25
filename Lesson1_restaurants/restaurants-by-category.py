@@ -686,5 +686,3 @@ numpy.median(texMex_scores),
 numpy.median(turkish_scores),
 numpy.median(vegetarian_scores),
 numpy.median(notListed_scores)]
-
-
